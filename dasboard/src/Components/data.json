@@ -1,0 +1,19 @@
+[
+	{
+		"business_name": "Company",
+		"contact_name": "Sachin Raj",
+		"email": "sachin@company",
+		"phone": "3424234234",
+        "country": "Singapore",
+        "id":1
+	},
+	{
+		"business_name": "Compasny",
+		"contact_name": "Sachisn Raj",
+		"email": "sacshin@company",
+		"phone": "342s4234234",
+        "country": "Ssingapore",
+        "id":2
+	}
+	
+]
